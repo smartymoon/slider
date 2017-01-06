@@ -1,6 +1,8 @@
 # slider
 模仿imooc课程实现slider
 
+![_20170106222859](https://cloud.githubusercontent.com/assets/12489528/21720902/b168ef24-d460-11e6-9857-d82ed1153b3d.png)
+
 这是一个网页中常用的轮播图插件，特点有
 * 原生Javascript书写，不依赖第三方库
 * 可以在同一个页面中使用多个该轮播插件
