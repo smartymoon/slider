@@ -224,7 +224,7 @@ window.onload = function () {
             this.bindPintersClick();
             this.bindMouseOver();
             this.bindMouseOut();
-            this.startScroll();
+            this.startScroll(this)();
         }
     };
     for (var i = 0; i < sliders.length; i++) {
