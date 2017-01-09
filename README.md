@@ -13,12 +13,12 @@
 
 * 偶而出现空白页
 
+### TODO
+*  适配移动端
 ### 使用方法
 
 1. 在html文档引入相关文件
 
-### TODO
-*  适配移动端
 ```
   <link rel="stylesheet" href="smartySlider.css">
 	<link rel="stylesheet" href="./css/font-awesome.min.css">
