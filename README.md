@@ -21,8 +21,8 @@
 
 ```
   <link rel="stylesheet" href="smartySlider.css">
-	<link rel="stylesheet" href="./css/font-awesome.min.css">
-	<script src="smartySlider.js"></script>
+  <link rel="stylesheet" href="./css/font-awesome.min.css">
+  <script src="smartySlider.js"></script>
 ```
 2. 在文档中需要的位置插入以下标签
 
